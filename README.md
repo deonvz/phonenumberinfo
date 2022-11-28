@@ -3,6 +3,6 @@ This python scripts provides information about the country and the carrier of a 
 Type the following commands
 `pip install phonenumbers`
 Then Run the script 
-`python phonenumberinfo`
+`python phonenumberinfo.py`
 Screenshot example (include the + country code and add no spaces)
 ![alt text](screenshot.png "Screenshot")
