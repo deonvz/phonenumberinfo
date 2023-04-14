@@ -1,7 +1,7 @@
 # What's phonenumberinfo script
 This Python script returns information about the country and carrier of the phone number you provide as input.
 
-# Install && Setup
+# Install & Setup
 `git clone https://github.com/deonvz/phonenumberinfo.git`
 
 `pip install requirements.txt`
